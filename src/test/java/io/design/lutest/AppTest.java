@@ -35,5 +35,6 @@ public class AppTest
     {
         assertTrue( true );
         System.out.println("update成功！");
+        System.out.println("第二次update成功！");
     }
 }
