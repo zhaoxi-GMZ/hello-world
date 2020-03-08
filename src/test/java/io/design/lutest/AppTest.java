@@ -27,7 +27,6 @@ public class AppTest
     {
         return new TestSuite( AppTest.class );
     }
-
     /**
      * Rigourous Test :-)
      */
@@ -38,5 +37,6 @@ public class AppTest
         System.out.println("第二次update成功！");
         System.out.println("update 3");
         System.out.println("update 4");
+        System.out.println("update 5");
     }
 }
