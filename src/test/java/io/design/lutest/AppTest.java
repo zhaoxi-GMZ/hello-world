@@ -38,5 +38,6 @@ public class AppTest
         System.out.println("update 3");
         System.out.println("update 4");
         System.out.println("update 5");
+        System.out.println("update 6");
     }
 }
